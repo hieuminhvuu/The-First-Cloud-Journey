@@ -10,7 +10,7 @@ Trong phạm vi bài lab, giả lập rằng chúng ta có Main office ( VPC ASG
 
 ## [I. Create VPN enviroment](#VPN1)
 
--   ### [1. Create VPC for VPN](#VPV1.1)
+-   ### [1. Create VPC for VPN](#VPN1.1)
 -   ### [2. Create EC2 as a Customer Gateway](#VPN1.2)
 
 ## [II. Configure VPN Connection](#VPN2)
@@ -21,7 +21,7 @@ Trong phạm vi bài lab, giả lập rằng chúng ta có Main office ( VPC ASG
 -   ### [4. Customer Gateway Configuration](#VPN2.4)
 -   ### [5. Modify AWS VPN Tunnel](#VPN2.5)
 
-<a name="VNP1"></a>
+<a name="VPN1"></a>
 ### I. Create VPN Environment
 
 <a name="VPN1.1"></a>
